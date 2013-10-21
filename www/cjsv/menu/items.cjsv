@@ -1,0 +1,6 @@
+span
+  a.menu_item [href = not ready yet] = home
+  a.menu_item [href = not ready yet] = stuff
+  a.menu_item [href = not ready yet] = config
+  a.menu_item [href = not ready yet] = about
+
